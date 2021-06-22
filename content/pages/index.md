@@ -8,7 +8,14 @@ sections:
     content: >
       Por aquí encontrarás sobre mí y mi trabajo, servicios como diseñador
       gráfico, ideas sobre la creatividad, ilustraciones, dibujos y temas que
-      toco en mi blog 
+      toco en mi blog
+
+
+
+
+      > *“El secreto de la felicidad es tener gustos sencillos y una mente
+      compleja, el problema es que a menudo la mente es sencilla y los gustos
+      son complejos.”*
     actions:
       - label: Let's talk
         url: /contact
